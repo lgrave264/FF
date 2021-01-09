@@ -1,0 +1,30 @@
+img{
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    object-fit: fill;
+}
+
+body{
+    background-image: url('../images/flanelback.png');
+    background-attachment: fixed;
+    background-size: 100%;
+        background-repeat: no-repeat;
+}
+
+table{
+    background-color: #444444;
+    border-color: #F00F00;
+    border-width: 3.5px;
+}
+
+.tabtag{
+    color: black;
+    font-size: 20px;
+}
+
+#bar{
+    background-color: gray;
+    border-color: black;
+    border-width: 1px;
+}
